@@ -14,6 +14,12 @@ To run the app in Docker with hot reload, run:
 docker-compose up
 ~~~
 
+The project was generated with the command :
+
+~~~
+npx create-react-app --template typescript my-first-react-app
+~~~
+
 ## Requirements
 
 - NodeJS
